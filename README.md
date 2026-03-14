@@ -3,7 +3,7 @@
 Interface moderna de login desenvolvida com **HTML e CSS**.
 
 ## 📸 Preview do Projeto
-![Preview da página](img-project.jpg)
+![Preview da página](preview-project.png)
 
 ## 🚀 Acesse o projeto online
 👉 [(https://jonn-dev.github.io/login-page/)](https://jonn-dev.github.io/login-page/)
